@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 function reverseVowels(str) {
     const vowels = ['a', 'e', 'i', 'o', 'u'];
   const strArr = str.split('');
